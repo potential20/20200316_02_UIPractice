@@ -67,6 +67,16 @@
         android:layout_height="wrap_content"
         android:hint="전화번호를 입력하세요"
         android:inputType="phone"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="푸시알림 On/Off"/>
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="푸시알림 사용 여부"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
